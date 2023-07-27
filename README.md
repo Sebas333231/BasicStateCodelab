@@ -7,3 +7,6 @@ su orientacion se sigan guardando cambios, es una buena app para practicar, esta
 
 Imagen
 ![Screenshot_2023-07-26-19-56-19-297_com example basicstatecodelab](https://github.com/Sebas333231/BasicStateCodelab/assets/110652225/7c9e3423-805d-45aa-8c95-ebc66f821157)
+
+Imagen
+![Screenshot_2023-07-26-19-56-24-291_com example basicstatecodelab](https://github.com/Sebas333231/BasicStateCodelab/assets/110652225/6b7615f5-f9dc-43e8-9c50-0549adab7750)
